@@ -2,16 +2,16 @@
 /* Bakbak One */
 @font-face {
   font-family: "Bakbak One";
-  src: url(../fonts/bakbak-one-v6-latin-regular.woff);
-  src: url(../fonts/bakbak-one-v6-latin-regular.woff2);
+  src: url(bakbak-one-v6-latin-regular.woff);
+  src: url(bakbak-one-v6-latin-regular.woff2);
   font-style: normal;
 }
 
 /* Poppins */
 @font-face {
   font-family: "Poppins";
-  src: url(../fonts/poppins-v20-latin-regular.woff);
-  src: url(../fonts/poppins-v20-latin-regular.woff2);
+  src: url(poppins-v20-latin-regular.woff);
+  src: url(poppins-v20-latin-regular.woff2);
   font-style: normal;
 }
 
@@ -249,7 +249,7 @@ img {
   width: 100%;
   background-image:
     linear-gradient(#0002 50%, var(--bg)),
-    url(../assets/img/Home_Img.png);
+    url(Home_Img.png);
   background-position: center top;
   background-size: 73rem 34rem;
   background-repeat: no-repeat;
